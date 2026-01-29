@@ -135,12 +135,13 @@ Data visualization using Matplotlib / Seaborn
 Export reports to CSV or Excel
 
 Convert into a Machine Learning performance predictor
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Mohammed Anam Ullah
 AIML Student | Python | Data Analysis
 
-📧 Email: anaamkhan49@gmail.com
+## 📧 Email: anaamkhan49@gmail.com
 
 📍 Hyderabad, India
