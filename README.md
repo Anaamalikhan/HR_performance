@@ -37,13 +37,13 @@ To analyze employee performance based on:
 
 ## 🗂️ Project Structure
 
-```text
+
 HR-Performance-Awards/
 │
 ├── hr_performance_awards.py   # Main Python script
 ├── README.md                  # Project documentation
 
- Key Features
+## Key Features
 1️⃣ Employee Dataset Creation
 
 Created a structured employee dataset using Pandas DataFrame.
@@ -138,3 +138,11 @@ Convert into a Machine Learning performance predictor
 ---
 
 
+## 👨‍💻 Author
+
+**Mohammed Anam Ullah**
+AIML Student | Python | Data Analysis
+
+## 📧 Email: anaamkhan49@gmail.com
+
+📍 Hyderabad, Indi
