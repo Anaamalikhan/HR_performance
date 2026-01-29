@@ -43,7 +43,7 @@ HR-Performance-Awards/
 ├── hr_performance_awards.py   # Main Python script
 ├── README.md                  # Project documentation
 
-##  Key Features
+ Key Features
 1️⃣ Employee Dataset Creation
 
 Created a structured employee dataset using Pandas DataFrame.
