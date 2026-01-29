@@ -145,4 +145,4 @@ AIML Student | Python | Data Analysis
 
 ## 📧 Email: anaamkhan49@gmail.com
 
-📍 Hyderabad, Indi
+📍 Hyderabad, India
