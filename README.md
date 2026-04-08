@@ -100,7 +100,7 @@ Identified Top Performer of the Month.
 
 Clone the repository:
 
-git clone https://github.com/your-username/HR-Performance-Awards.git
+git clone https://github.com/Anaamalikhan/HR_performance.git
 
 
 Navigate to the project folder:
